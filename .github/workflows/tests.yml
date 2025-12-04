@@ -48,7 +48,7 @@ jobs:
         run: |
           echo "### Résultat du test *add*" >> $GITHUB_STEP_SUMMARY
           echo '' >> $GITHUB_STEP_SUMMARY
-          echo '
+          
 
   Test_Sub:
     runs-on: ubuntu-latest
